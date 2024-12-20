@@ -10,6 +10,10 @@
 
 #### `npm install react-router-dom react-icons`
 
+#### `npm i @tanstack/react-query`
+
+#### `npm install react-hot-toast`
+
 ## Run App Locally:
 
 #### `npm run dev`
