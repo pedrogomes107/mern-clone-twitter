@@ -8,6 +8,12 @@ Tutorial: https://www.youtube.com/watch?v=4GUVz2psWUg
 
 #### `npm install -D nodemon`
 
-## Run App Locally:
+## Run Server Locally:
 
 #### `npm run dev`
+
+## Deploy App:
+
+#### `npm run build`
+
+#### `npm run start`

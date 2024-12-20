@@ -14,6 +14,6 @@
 
 #### `npm install react-hot-toast`
 
-## Run App Locally:
+## Run Client Locally:
 
 #### `npm run dev`
