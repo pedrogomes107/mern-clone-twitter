@@ -1,6 +1,8 @@
 # Clone Twitter - Backend
 
-Tutorial: https://www.youtube.com/watch?v=4GUVz2psWUg
+## Demo:
+
+https://mern-clone-twitter.onrender.com
 
 ## Install npm packages:
 
@@ -18,6 +20,6 @@ Tutorial: https://www.youtube.com/watch?v=4GUVz2psWUg
 
 #### `npm run start`
 
-## Demo:
+## Tutorial: 
 
-#### https://mern-clone-twitter.onrender.com
+https://www.youtube.com/watch?v=4GUVz2psWUg
