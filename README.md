@@ -1,5 +1,7 @@
 # Clone Twitter - Backend
 
+App with the most basic features of Twitter, like posting tweets, following users, and liking tweets.
+
 ## Demo:
 
 https://mern-clone-twitter.onrender.com
